@@ -1,0 +1,9 @@
+C:\Users\damien.bachelet\Documents\Demo TDD\SolutionDemoTDD\GameOfLife\bin\Debug\netcoreapp2.1\GameOfLife.deps.json
+C:\Users\damien.bachelet\Documents\Demo TDD\SolutionDemoTDD\GameOfLife\bin\Debug\netcoreapp2.1\GameOfLife.dll
+C:\Users\damien.bachelet\Documents\Demo TDD\SolutionDemoTDD\GameOfLife\bin\Debug\netcoreapp2.1\GameOfLife.pdb
+C:\Users\damien.bachelet\Documents\Demo TDD\SolutionDemoTDD\GameOfLife\obj\Debug\netcoreapp2.1\GameOfLife.csprojAssemblyReference.cache
+C:\Users\damien.bachelet\Documents\Demo TDD\SolutionDemoTDD\GameOfLife\obj\Debug\netcoreapp2.1\GameOfLife.csproj.CoreCompileInputs.cache
+C:\Users\damien.bachelet\Documents\Demo TDD\SolutionDemoTDD\GameOfLife\obj\Debug\netcoreapp2.1\GameOfLife.AssemblyInfoInputs.cache
+C:\Users\damien.bachelet\Documents\Demo TDD\SolutionDemoTDD\GameOfLife\obj\Debug\netcoreapp2.1\GameOfLife.AssemblyInfo.cs
+C:\Users\damien.bachelet\Documents\Demo TDD\SolutionDemoTDD\GameOfLife\obj\Debug\netcoreapp2.1\GameOfLife.dll
+C:\Users\damien.bachelet\Documents\Demo TDD\SolutionDemoTDD\GameOfLife\obj\Debug\netcoreapp2.1\GameOfLife.pdb
